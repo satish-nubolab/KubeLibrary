@@ -2,7 +2,7 @@ import json
 import re
 import ssl
 import urllib3
-from kubernetes import client, config
+from kurequests
 import subprocess
 
 from robot.api import logger
